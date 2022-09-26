@@ -1,3 +1,5 @@
+//WAP to find factorial of any number(user input)
+
 package com.pack;
 
 import java.util.Scanner;
