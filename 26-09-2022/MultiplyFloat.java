@@ -1,3 +1,5 @@
+//java program to multiply two Floating-Point Numbers
+
 package com.pack;
 
 public class MultiplyFloat {
