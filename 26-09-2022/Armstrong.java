@@ -1,3 +1,4 @@
+//WAP to check Armstrong number
 package com.pack;
 
 import java.util.Scanner;
