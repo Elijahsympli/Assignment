@@ -1,3 +1,5 @@
+//WAP to check a number is a prime number or not
+
 package com.pack;
 
 import java.util.Scanner;
