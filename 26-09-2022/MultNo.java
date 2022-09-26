@@ -1,3 +1,5 @@
+//java program to multiply two numbers
+
 package com.pack;
 
 import java.util.Scanner;
